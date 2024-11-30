@@ -11,7 +11,7 @@ pipeline {
         stage('Build') {
             steps {
                 try{
-                    bat '"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe" Skomoroha-Test   .sln /t:Build /p:Configuration=Release'
+                    bat '"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe" Skomoroha-Test.sln /t:Build /p:Configuration=Release'
                 }
                 catch(Exception err){
 					echo "Build failed: {err.message}"
