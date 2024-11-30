@@ -25,7 +25,7 @@ pipeline {
         stage('Test') {
             steps {
                 try{
-                    bat "D:\\kpi-3\\5semester\\SystemProg\\lab4\\Skomoroha-Test\\x64\\Debug\\Skomoroha-Test.exe --gtest_output=xml:test_report.xml"
+                    bat "D:\\kpi-3\\5semester\\SystemProg\\lab4\\Skomoroha-Test\\x64\\Debug\\Skomoroha-Test.exe --gtest_output=xml:Skomoroha-Test.xml"
                 }
                 catch(Exception err){
                 echo "Test failed: {err.message}"
