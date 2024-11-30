@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\kpi-3\5semester\SystemProg\lab4\Skomoroha-Test\stringProcessor.h(10,34): warning C4114: same type qualifier used more than once
+  (compiling source file '/test.cpp')
+  
+  Skomoroha-Test.vcxproj -> D:\kpi-3\5semester\SystemProg\lab4\Skomoroha-Test\x64\Debug\Skomoroha-Test.exe

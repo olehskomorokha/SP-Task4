@@ -1,0 +1,3 @@
+D:\kpi-3\5semester\SystemProg\lab4\Skomoroha-Test\x64\Debug\gtest.pdb
+D:\kpi-3\5semester\SystemProg\lab4\Skomoroha-Test\x64\Debug\gtest_main.pdb
+D:\kpi-3\5semester\SystemProg\lab4\Skomoroha-Test\Skomoroha-Test\x64\Debug\Skomoroh.7B95ED84.Up2Date
